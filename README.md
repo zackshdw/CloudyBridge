@@ -1,4 +1,4 @@
-# 🌩️ CloudyBridge Add-On
+# 🌩️ CloudyBridge Minecraft Bedrock Server Add-On
 
 Welcome To The **CloudyBridge** Add-On Integration For Your Minecraft Bedrock Server! This Guide Will Walk You Through The Steps To Get Your Server Connected With Our Bot And Manage Your Community Effectively.
 
@@ -38,7 +38,7 @@ To Get Started With CloudyBridge, Follow These Steps:
    <img src="https://github.com/user-attachments/assets/38477627-9daf-40d7-b00c-1f1a427e143f" width="250px">
 
 9. **Configure The Server**:
-   - Navigate To The `Scripts` Folder And Edit The `Config.js` File.
+   - Navigate To The `scripts` Folder And Edit The `config.js` File.
    - Match The Server Settings And The Auth Code You Generated Earlier In The Admin Group.
   
   ```javascript
@@ -48,7 +48,7 @@ To Get Started With CloudyBridge, Follow These Steps:
   }
   ```
 10. **Install The Behavior Pack**:
-   Move The `CloudyBridge` Folder Into Your `Behavior_Packs` Directory.
+   Move The `CloudyBridge` Folder Into Your `behavior_Packs` Directory.
 
 11. **Start Your Server**:  
    Start Your Minecraft Server, And You Should See A Notification In The Console Confirming `[Scripting] </> REST Server Online` That Everything Is Set Up Correctly.
