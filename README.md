@@ -56,17 +56,17 @@ To Get Started With CloudyBridge, Follow These Steps:
 ## 🔒 Securing Your Server
 
 - **Enable Allowlist**:  
-  Secure Your Server By Using The `allowlist` Command And Setting The Status To `true`.
+  Secure Your Server By Using The `/mc allowlist` Command And Setting The Status To `true`.
   
   ![](https://github.com/user-attachments/assets/1000d98e-5297-45b9-8f4d-1ffceab06c1e)
 
 - **Member Registration**:  
-  Instruct Your Members To Register On Your Server Using The `/reg` Command. Once Registered, They Can Join And Play.
+  Instruct Your Members To Register On Your Server Using The `/mc reg` Command. Once Registered, They Can Join And Play.
 
   ![9](https://github.com/user-attachments/assets/8cefc4b3-b6ad-4c12-80fc-2f5939448125)
 
 - **Ban/Unban Members**:  
-  If Any Member Becomes Annoying Or Violates Your Rules, Use The `/ban` Command To Ban Them. If You Wish To Allow Them Back, Use The `/unban` Command.
+  If Any Member Becomes Annoying Or Violates Your Rules, Use The `/mc ban` Command To Ban Them. If You Wish To Allow Them Back, Use The `/mc unban` Command.
   
   ![9](https://github.com/user-attachments/assets/f59d8d93-1776-4fd9-80fe-0350aaa15496)
 
@@ -98,5 +98,3 @@ The Last Step Is To Configure Your Server's Ip/Domain And Port Using `/mc server
 ## 🎉 Enjoy!
 
 You're All Set! Enjoy Managing Your Minecraft Server With CloudyBridge. If You Encounter Any Issues Or Have Questions, Feel Free To Reach Out.
-
----
