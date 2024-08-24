@@ -60,6 +60,21 @@ To Get Started With CloudyBridge, Follow These Steps:
    ]
    ```
 
+   - Again, Go To Root Folder `config\default\permissions.json` And Add `@minecraft/server-net`
+
+   ```javascript
+   {
+     "allowed_modules": [
+       "@minecraft/server-gametest",
+       "@minecraft/server",
+       "@minecraft/server-ui",
+       "@minecraft/server-admin",
+       "@minecraft/server-editor",
+       "@minecraft/server-net"
+     ]
+   }
+   ```
+
 10. **Install Behavior Pack**:
    Move The `CloudyBridge` Folder Into Your `behavior_packs` Directory.
 
