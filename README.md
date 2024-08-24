@@ -47,6 +47,19 @@ To Get Started With CloudyBridge, Follow These Steps:
       auth: "qwertyuiopasdfghjklzxcvbnm"
   }
   ```
+
+  - Go To Root Folder `worlds\<WorldName>\` And Open `world_behavior_packs.json`, If You Didn't See This, Just Create By That Names.
+  - Add CloudyBridge Pack ID 
+
+   ```javascript
+   [
+       {
+           "pack_id": "807735f8-8cbb-4915-a33a-d771d68abc02",
+           "version": [1,0,0]
+       }
+   ]
+   ```
+
 10. **Install Behavior Pack**:
    Move The `CloudyBridge` Folder Into Your `behavior_packs` Directory.
 
