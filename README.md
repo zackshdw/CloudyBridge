@@ -23,7 +23,7 @@ To Get Started With CloudyBridge, Follow These Steps:
 
 
 5. **Download Add-On**:  
-   Go To [Releases](#) Section Of This Repository, Download Minceraft Add-On, And Extract It To Your Desired Location.
+   Go To [Releases](https://github.com/zackshdw/CloudyBridge/releases) Section Of This Repository, Download Minceraft Add-On, And Extract It To Your Desired Location.
 
 6. **Initialize Groups**:
 
