@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This Repository Has Been Moved To [BOTCloudy/CloudyBridge](https://github.com/BOTCloudy/CloudyBridge) For Future Release.
+
 # 🌩️ CloudyBridge
 
 Welcome To **CloudyBridge** Add-On Integration For Your Minecraft Bedrock Dedicated Server! This Guide Will Walk You Through The Steps To Get Your Server Connected With Our Bot And Manage Your Community Effectively.
