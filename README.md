@@ -1,5 +1,5 @@
 > [!WARNING]  
-> This Repository Has Been Moved To [BOTCloudy/CloudyBridge](https://github.com/BOTCloudy/CloudyBridge) For Future Release.
+> This Repository Has Been Moved To [cloudy-network/CloudyBridge](https://github.com/cloudy-network/CloudyBridge) For Future Release.
 
 # 🌩️ CloudyBridge
 
